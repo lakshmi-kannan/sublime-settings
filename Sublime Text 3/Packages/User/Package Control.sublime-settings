@@ -1,0 +1,15 @@
+{
+	"installed_packages":
+	[
+		"Git",
+		"GitGutter",
+		"GitStatus",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"SublimeLinter-pep8",
+		"SublimeLinter-pyflakes",
+		"Sublimerge Pro",
+		"Wombat Extended"
+	]
+}
